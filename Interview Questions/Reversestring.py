@@ -13,5 +13,6 @@ for i in range (len(myString)):
     #print len(myString)-i-1
     #print myString [len(myString)-i-1]
     xyz=xyz+ myString[len(myString)-i-1]
+    #xyz += myString[len(myString)-i-1]
 
 print xyz

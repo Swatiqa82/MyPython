@@ -1,3 +1,5 @@
+http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
 1.Reverse String Swati should return tiawS 
 2.Fibonacci Series(1,1,2,3,5,8)
 3.Find Prime number (3,5,7,11,13,17,19,23) devisible by 2 or 3 are not prime numbers.

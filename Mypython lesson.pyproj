@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ifcondition.py" />
+    <Compile Include="Interview Questions\Fibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Interview Questions\Reversestring.py">
       <SubType>Code</SubType>
     </Compile>
@@ -52,6 +55,9 @@
   <ItemGroup>
     <Folder Include="Functions\" />
     <Folder Include="Interview Questions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Interview Questions\Interview Problems.txt" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
