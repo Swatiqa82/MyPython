@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3fd031a0-57bd-4214-8b36-cfb5f0d9e6f8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Interview Questions\Reversestring.py</StartupFile>
+    <StartupFile>Interview Questions\CountOfNumber.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Datetime.py" />
+    <Compile Include="Dictonary.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FileHandling.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forloop.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Functions\Functions with if.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Functions\Returning_differnent_Datatypes.py">
       <SubType>Code</SubType>
     </Compile>
@@ -37,13 +49,36 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ifcondition.py" />
+    <Compile Include="Interview Questions\AvoidDuplicate.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interview Questions\CountOfNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Interview Questions\Fibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interview Questions\ReverseStr.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interview Questions\RaiseTo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interview Questions\printsqurenumbers.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Interview Questions\Reversestring.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="list.py" />
+    <Compile Include="listAppend.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MyClassEmptyConstructor.py" />
+    <Compile Include="MyClassNoConstructor.py" />
+    <Compile Include="MyClass.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="myFunctions.py">
       <SubType>Code</SubType>
     </Compile>

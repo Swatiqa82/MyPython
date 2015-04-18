@@ -1,10 +1,13 @@
-zoo_animals = ["pangolin", "cassowary", "sloth","swati" ];
-# One animal is missing!
+#List is a collection of different datatypes in a sequence
 
+zoo_animals = ["pangolin", "cassowary", 1,"swati" ];
+# One animal is missing!
+#print "The third animal at the zoo is the " + zoo_animals[2]
+    
 if len(zoo_animals) > 1:
 	print "The first animal at the zoo is the " + zoo_animals[0]
 	print "The second animal at the zoo is the " + zoo_animals[1]
-	print "The third animal at the zoo is the " + zoo_animals[2]
+	print  zoo_animals[2]
 	print "The fourth animal at the zoo is the " + zoo_animals[3]
 
 """
@@ -35,3 +38,5 @@ print numbers[0] + numbers[2]
 print "Adding the numbers at indices 1 and 3..."
 # Your code here!
 print numbers[1]+numbers[3]
+
+
